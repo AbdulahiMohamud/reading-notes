@@ -11,3 +11,5 @@ Hello, My name is Abdulahi and this is my understanding about the growth mindset
 - [x] *Take a step back or sleep on a problem, being tired wont help.* 
 
 [my github link](https://github.com/AbdulahiMohamud)
+
+[Table of Contents](./toc.md)
