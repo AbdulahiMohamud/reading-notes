@@ -1,4 +1,4 @@
-#My Understanding :monocle_face:
+#My Understanding :EMOJICODE:monocle_face:
 ##Growth Mindset
 hello, My name is Abdulahi and this is my understanding about the growth mindset.To me the growth mindset means that every thing is learnable and _hardwork and persistance trumps everything_. Never ~giveup~.
 
