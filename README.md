@@ -2,7 +2,7 @@
 
 ## Growth Mindset
 
-Hello, My name is Abdulahi and this is my understanding about the growth mindset.To me the growth mindset means that every thing is learnable and _hardwork and persistance trumps everything_. Never ~giveup~.
+Hello, My name is Abdulahi and this is my understanding about the growth mindset.To me the growth mindset means that every thing is learnable and **_hardwork and persistance trumps everything_**. Never ~giveup~.
 
 3 things i need to remember is that 
 
