@@ -9,10 +9,10 @@ Hello, My name is Abdulahi and this is my understanding about the growth mindset
 - [x] *Embrace the hardships and take them head on*
 - [x] *Noone is inherently bad at something every new starts off hard or confusing*
 - [x] *Take a step back or sleep on a problem, being tired wont help.* 
-+hi
-+dgdeg
--gdrg
-*goog
-=gdsg
-=gdg
++ hi
++ dgdeg
+- g drg
+* goog
+= g dsg
+= gdg
 [my github link](https://github.com/AbdulahiMohamud)
