@@ -1,0 +1,13 @@
+# Git
+## What is git?
+
+git is a DVCS : distributed version control system, which basicly measns that it helps control the diffrent versions of a single item to make it less complicated
+which is which. Git also stores data and mirros it to your local host from your github repository to avoid the data to get lost. this also helps multiply people work on a single project without
+direcly changing the original project.
+
+## How to use Git
+
+to use git you first have to understand login at the terminal and make a folder to clone with your github repository using the `git clone` 
+. To see if it was cloned correctly put in `code . ` this should open vscode with the repository files visible. Make any changes needed then ***save the changes
+in vscode***. Head back into terminal type `git status` to see the changes that need to be added. then enter `git add` plus the files that need adding. For the last
+step you have to commit using `git commit -m ""` to commit and add a message for the change.
