@@ -11,3 +11,4 @@ hello, my name is abdulahi and this is what i have been working on so far
 - [CSS](./reading05.md)
 - [Javascript](./reading06.md)
 - [Javascript Functions](./reading07.md)
+- [Javascript Operators & Loops](./reading08.md)
