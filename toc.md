@@ -10,3 +10,4 @@ hello, my name is abdulahi and this is what i have been working on so far
 - [Wireframing & Html](./read04.md)
 - [CSS](./reading05.md)
 - [Javascript](./reading06.md)
+- [Javascript Functions](./reading07.md)
