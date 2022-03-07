@@ -10,4 +10,4 @@ the main tags that make up an html document are
 - title 
 - body
 
-[table of contents](./toc.md)
+[table of contents](./README.md)

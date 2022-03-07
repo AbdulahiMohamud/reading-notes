@@ -33,4 +33,4 @@ a while loops runs as long as it believes the condition given to it are true. `w
   statement`
   if the condition is deemed false the while loop passes off control to the the next stament below the loop.
   ***MAKE SURE THE STATEMENT BECOMES FALSE EVENTUALLY OR YOU WILL BE STUCK IN AN ENDLESS LOOP
-[Table of contents](./toc.md)
+[Table of contents](./README.md)

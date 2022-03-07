@@ -1,15 +1,22 @@
-# My Understanding :monocle_face:
+# INTRO
 
-## Growth Mindset
+hello, my name is abdulahi and this is what i have been working on so far. Im currentl in 201
 
-Hello, My name is Abdulahi and this is my understanding about the growth mindset.To me the growth mindset means that every thing is learnable and ***hardwork and persistance trumps everything***. Never ~giveup~.
+- [x] [my github link](https://github.com/AbdulahiMohamud)
 
-3 things i need to remember is that 
+## Table of Contents
 
-- [x] *Embrace the hardships and take them head on*
-- [x] *Noone is inherently bad at something every new starts off hard or confusing*
-- [x] *Take a step back or sleep on a problem, being tired wont help.* 
+### code 102 reading notes
 
-[my github link](https://github.com/AbdulahiMohamud)
+- [GrowthMindset](./mindset.md)
+- [learning Markdown](./read01.md)
+- [text Editor](./reading2.md)
+- [Wireframing & Html](./read04.md)
+- [CSS](./reading05.md)
+- [Javascript](./reading06.md)
+- [Javascript Functions](./reading07.md)
+- [Javascript Operators & Loops](./reading08.md)
 
-[Table of Contents](./toc.md)
+### code 201 reading notes
+
+- [html ch 1,8,17,18 and js ch 1](./class01.md)

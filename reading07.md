@@ -10,4 +10,4 @@
 
 the return statment is asking for the output of the varible after going throug the function
 
-[Table of contents](./toc.md)
+[Table of contents](./README.md)

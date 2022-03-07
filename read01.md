@@ -16,5 +16,5 @@ sentance to make it bold. Another one is \- or \* in the begining to create an u
 ## ![Here are some more examples of what you can do with markdown](https://notejoy.s3.amazonaws.com/static_images/notejoy_markdown_syntax.png)
 
 
-[Table of Contents](./toc.md)
+[Table of Contents](./README.md)
 

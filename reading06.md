@@ -6,4 +6,4 @@ Javascript is the most well-known and used coding language to develope websites 
 
 
 
- [table of contents](./toc.md)
+ [table of contents](./README.md)
