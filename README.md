@@ -21,3 +21,4 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 
 - [html ch 1,8,17,18 and js ch 1](./class01.md)
 - [htm ch 2, 10 and js ch 2, 4](./class02.md)
+- [html ch 2 , 13 and js ch 2 ,4](./class03.md)

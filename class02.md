@@ -44,5 +44,4 @@ if statements runs a loop when the condition is true. an addtion to the if state
 
 
 
-
 [Table of contents](./README.md)
