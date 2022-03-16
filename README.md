@@ -25,3 +25,4 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [html ch 4 ,15 and js ch 3(first part) and article ](./class04.md)
 - [htm ch 5, 11, 12 and article JPEG vs PNG vs GIF](./class05.md)
 - [articles and js ch 3 , 5](./class06.md)
+- [article html ch 6 and js ch 3](./class07.md)
