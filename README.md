@@ -27,3 +27,4 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [articles and js ch 3 , 5](./class06.md)
 - [article html ch 6 and js ch 3](./class07.md)
 - [article , html ch 15](./class08.md)
+- [html ch 7 ,14 js ch 6](./class09.md)
