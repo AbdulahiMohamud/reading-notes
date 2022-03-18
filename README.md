@@ -28,3 +28,4 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [article html ch 6 and js ch 3](./class07.md)
 - [article , html ch 15](./class08.md)
 - [html ch 7 ,14 js ch 6](./class09.md)
+- [js ch 10](./class10.md)
