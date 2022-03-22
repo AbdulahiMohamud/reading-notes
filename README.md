@@ -30,3 +30,5 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [html ch 7 ,14 js ch 6](./class09.md)
 - [js ch 10](./class10.md)
 - [html ch 16 ,19](./class11.md)
+- [charts.js](./class12.md)
+- [local storage](./class13.md)
