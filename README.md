@@ -32,3 +32,5 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [html ch 16 ,19](./class11.md)
 - [charts.js](./class12.md)
 - [local storage](./class13.md)
+- [CSS trsnsition ans animation](./class14.md)
+- [Google Learned From Its Quest to Build the Perfect Team](./class15.md)
