@@ -34,3 +34,5 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [local storage](./class13.md)
 - [CSS trsnsition ans animation](./class14.md)
 - [Google Learned From Its Quest to Build the Perfect Team](./class15.md)
+
+### code 301 reading notes
