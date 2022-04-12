@@ -36,3 +36,5 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [Google Learned From Its Quest to Build the Perfect Team](./class15.md)
 
 ### code 301 reading notes
+
+- [note01](./301.read01.md)
