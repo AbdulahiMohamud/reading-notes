@@ -38,3 +38,4 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 ### code 301 reading notes
 
 - [note01](./301.read01.md)
+- [note02](./301.read02.md)
