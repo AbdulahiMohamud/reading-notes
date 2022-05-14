@@ -39,3 +39,7 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 
 - [note01](./301.read01.md)
 - [note02](./301.read02.md)
+
+### 401 notes
+
+- [the command line](./401%20Advanced%20Software%20Development/reading1.md)
