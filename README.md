@@ -43,3 +43,6 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 ### 401 notes
 
 - [the command line](./401%20Advanced%20Software%20Development/reading1.md)
+- [SQL](./401%20Advanced%20Software%20Development/SQL-reading.md)
+- [day 1](./401%20Advanced%20Software%20Development/read01.md)
+- [day 2](./401%20Advanced%20Software%20Development/read02.md)
