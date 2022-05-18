@@ -46,3 +46,4 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [SQL](./401%20Advanced%20Software%20Development/SQL-reading.md)
 - [day 1](./401%20Advanced%20Software%20Development/read01.md)
 - [day 2](./401%20Advanced%20Software%20Development/read02.md)
+- [day 3](./401%20Advanced%20Software%20Development/read03.md)
