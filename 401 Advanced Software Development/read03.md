@@ -7,9 +7,6 @@ When working with very large collections or systems with low resources, the deci
 - The memory footprint of primitives double and long have a larger footprint than the object wrapper classes.
 - Wrapper object classes have an advantage in default values because they all default to null until primitives, although this is less useful since leaving variables uninitialized is poor practice to begin with.
 
-![memory useage](../img/plot-memory-bits.gif)
-Image Credit  [Baeldung](https://www.baeldung.com/java-primitives-vs-objects)
-
 
 ### Terms
 
