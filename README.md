@@ -49,4 +49,5 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [day 3](./401%20Advanced%20Software%20Development/read03.md) - got from Ben Mills ![https://github.com/akkanben/reading-notes]
 - [day 4](./401%20Advanced%20Software%20Development/read04.md)
 - [day 6](./401%20Advanced%20Software%20Development/read06.md)
-- [day 8](./401%20Advanced%20Software%20Development/read08.md)ß
+- [day 8](./401%20Advanced%20Software%20Development/read08.md)
+- [day 9](./401%20Advanced%20Software%20Development/read09%2Cmd)
