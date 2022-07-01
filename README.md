@@ -66,4 +66,8 @@ hello, my name is abdulahi and this is what i have been working on so far. Im cu
 - [day 32](./401%20Advanced%20Software%20Development/read28.md)
 - [day 33](./401%20Advanced%20Software%20Development/read29.md)
 - [day 34](./401%20Advanced%20Software%20Development/read32.md)
+
 - [day 34](./401%20Advanced%20Software%20Development/read33.md)
+
+- [day 35](./401%20Advanced%20Software%20Development/read33.md)
+
